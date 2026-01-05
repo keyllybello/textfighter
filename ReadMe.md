@@ -1,8 +1,5 @@
-========================================================================
-    CONSOLE APPLICATION : TextFighter Project Overview
-========================================================================
-
-# TextFighter
+# CONSOLE APPLICATION : TextFighter Project Overview
+## TextFighter
 
 TextFighter is a simple C++ text-based fighting game that showcases basic object-oriented programming concepts such as classes, constructors, destructors, getters/setters, and random-based combat.
 
