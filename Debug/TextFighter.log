@@ -1,0 +1,3 @@
+﻿  TextFighter.cpp
+C:\1334\TextFighter\TextFighter\TextFighter\TextFighter.cpp(79,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextFighter.vcxproj -> C:\1334\TextFighter\TextFighter\Debug\TextFighter.exe
